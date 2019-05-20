@@ -1,0 +1,15 @@
+html{
+	background-color: green;
+}
+h3{
+	background-color: blue;
+}
+.text-blue{
+	color: blue;
+}
+.text-red{
+	color: red;
+}
+#national{
+	background-color: yellow;
+}
